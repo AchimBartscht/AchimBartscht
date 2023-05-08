@@ -1,7 +1,15 @@
 ### Hi there 👋
 I´m Achim from Hamburg and I´m going to start a new career as a Web Developer. Because of that I become a member of Neue Fische IT-Bootcamp in may 2023.
 
-One of my hobbies is motorcycling. Please take a look on my old but smooth running BMW
+One of my hobbies is motorcycling. Please take a look on my fine old BMW.
+
+This old **Beemer** was built in 1977. I had to overhaul 
+- cylinders
+- cylinderheads
+- tank
+- seat
+
+All in all it´s a smooth running classic bike now.
 
 ![BMW R 60/7](https://maschinistenundsoehne.de/wp-content/uploads/2021/02/BMW_3.jpg)
 
