@@ -7,6 +7,7 @@ I had to restore a lot of the parts of the old motorcycle. For example:
 - new tank,
 - new paintwork
   and a lot more.
+
   But now it´s real fun to drive. You will find some more details on my motorcycle website [Maschinisten & Soehne](https://maschinistenundsoehne.de/blog/bmw-motorrad-baureihe-7)
 
 ## What I am currently learning 
