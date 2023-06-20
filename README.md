@@ -9,7 +9,7 @@ I had to refresh a lot of the parts of the old motorcycle. For example:
   and a lot more.
   But now it´s real fun to drive.
 
-  ##  What I am currently learning 
+# What I am currently learning 
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
