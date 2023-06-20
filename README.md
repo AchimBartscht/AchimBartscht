@@ -6,4 +6,5 @@ I had to refresh a lot of the parts of the old motorcycle. For example:
 - new wheels,
 - new tank,
 - new color
-  and a lot more. But now it´s real fun to drive.
+  and a lot more.
+  But now it´s real fun to drive.
